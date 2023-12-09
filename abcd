@@ -1,0 +1,10 @@
+project-root/
+|-- node_modules/
+|-- public/
+|   |-- styles/
+|       |-- style.css
+|-- views/
+|   |-- index.html
+|-- app.js
+|-- package.json
+|-- package-lock.json
